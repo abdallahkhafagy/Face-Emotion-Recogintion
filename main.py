@@ -12,7 +12,7 @@ from cv2 import CascadeClassifier
 from cv2 import rectangle
 
 
-img = imread('data/face0_rotate.jpg')
+img = imread('data/face0s.jpg')
 classifier = CascadeClassifier('data/haarcascade_frontalface_default.xml')
 
 faces = classifier.detectMultiScale(img)
