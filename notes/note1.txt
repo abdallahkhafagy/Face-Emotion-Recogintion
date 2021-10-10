@@ -1,0 +1,2 @@
+for detecting faces using the excel cascading features the detection is very fact and efficient but it doesn't work so well if the face is not up-right:
+for example if the face is rotated or upside down it's most likely it wouldn't be detected
